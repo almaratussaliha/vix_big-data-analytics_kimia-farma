@@ -1,5 +1,6 @@
 # Virtual Internship Experience Big Data Analytics Kimia Farma
-
+* SQL Query: <a href="https://github.com/almaratussaliha/vix_big-data-analytics_kimia-farma/blob/master/datamart.sql">HERE</a>
+* Slide Presentation: <a href="https://github.com/almaratussaliha/vix_big-data-analytics_kimia-farma/blob/master/final_task_vix_kimiafarma.pdf">Presentation in Bahasa Indonesia</a>
 ### Background
 As a Big Data analyst intern, we were asked to create a dashboard of sales data for the brand Salicyl over a year, 
 based on the raw data provided.
